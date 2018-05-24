@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TestingExample</string>
+
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign up</string>
+
+    <string name="error_username_invalid">Username invalid</string>
+    <string name="error_password_invalid">Password invalid</string>
+    <string name="sign_up_successful">Sign up successful</string>
+    <string name="sign_up_failure">Sign up failed</string>
+
+</resources>
